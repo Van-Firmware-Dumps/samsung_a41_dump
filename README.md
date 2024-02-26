@@ -1,0 +1,14 @@
+# a41xx-user 12 SP1A.210812.016 A415FXXS5DWI1 release-keys
+- manufacturer: samsung
+- platform: mt6768
+- codename: a41
+- flavor: a41xx-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: A415FXXS5DWI1
+- tags: release-keys
+- fingerprint: samsung/a41xx/a41:12/SP1A.210812.016/A415FXXS5DWI1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a41xx-user-12-SP1A.210812.016-A415FXXS5DWI1-release-keys
+- repo: samsung_a41_dump
